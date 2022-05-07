@@ -61,7 +61,7 @@ $ ./run_SubgraphShuffle.sh [Dataset (Gplus/IMDB)]
 $ cd ../
 ```
 
-Then experimental results for seven algorithms (WShuffle_triangle, WShuffle_triangle^* (w/o Lap), WShuffle_triangle^*, WLocal_triangle, ARR_triangle, WShuffle_square, WLocal_square) with n=10000 and (epsilon,delta)=(1,10^{-8}) will be output in data/[Dataset]/. For more details of parameter settings, see Usage of SubgraphShuffle.
+Then experimental results for seven algorithms (WShuffle_triangle, WShuffle_triangle^* (w/o Lap), WShuffle_triangle^*, WLocal_triangle, ARR_triangle, WShuffle_square, WLocal_square) with n=20000 and (epsilon,delta)=(1,10^{-8}) will be output in data/[Dataset]/. For more details of parameter settings, see Usage of SubgraphShuffle.
 
 # Execution Environment
 We used CentOS 7.5 with gcc 4.8.5 and python 3.6.5.
