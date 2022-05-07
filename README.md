@@ -4,6 +4,7 @@ This is a source code of "Differentially Private Subgraph Counting in the Shuffl
 
 # Directory Structure
 - cpp/			&emsp;C/C++ codes.
+- data/     &emsp;input/output data.
 - python/		&emsp;Python codes.
 - LICENSE.txt		&emsp;MIT license.
 - README.md		&emsp;This file.
